@@ -6,4 +6,4 @@
 3rd go server.cfg file and ensure loadscreen  
 
 # help
-if you face any problem contact me at discord for any help discord  httpsdiscord.gg6cBmfYqBFu
+if you face any problem contact me at discord for any help discord https://discord.gg/6cBmfYqBFu
