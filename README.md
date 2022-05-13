@@ -1,9 +1,8 @@
-# FIveM ready loadscreen
+# FiveM loadingscreen
 
-# How to install
-1st downlode the file  
-2nd copy and past at server resources  
-3rd go server.cfg file and ensure loadscreen  
+### My Discord Server - [DISCORD](https://discord.gg/jSDMuNjpuw)
 
-# help
-if you face any problem contact me at discord for any help discord https://discord.gg/6cBmfYqBFu
+### SETUP 
+- Add these 2 lines your to `Server.cfg`.
+- Ensure loadingscreen 
+- Done!
